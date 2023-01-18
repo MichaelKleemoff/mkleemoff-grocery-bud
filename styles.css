@@ -69,9 +69,8 @@ Global Styles
 body {
 	font-family: var(--ff-secondary);
 	/* background: var(--clr-grey-10); */
-	background: white;
-	/* color: var(--clr-grey-1); */
-	color: rgba(255, 0, 255, 0.6);
+	background: rgba(255, 0, 255, 0.6);
+	color: var(--clr-grey-1);
 	line-height: 1.5;
 	font-size: 0.875rem;
 }
